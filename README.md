@@ -1,4 +1,3 @@
-</div>
 ###:metal: Easy:
 <ul>docstring - auto docstringing
 <li>make_file - docker file
@@ -23,7 +22,8 @@ In order to engage in thematic modeling, you need to calculate the occurrence of
 <li>SMAPE - There are many metrics for regression tasks. For example, for forecasting tasks, in addition to the well-known RMSE, MAE and MAE, MAPE, WAPE, sMAPE and others are used.
 <li>Count_SKU - SKU stands for stock keeping unit, and translates as a warehouse accounting unit. Almost every product has its own unique number by which you can track some of its statistics.
 </ul> 
-###:metal: Medium:
+---
+### :metal: Medium:
 <ul>abstract_selector - convert class to @abstractmethod
 <li>ARPPU - calculate metrics 
 <li>competitor price -We are engaged in dynamic pricing and we want our model to take into account the prices of competitors. Let's assume that for each product (sku) we have a base_price – our current price. For each of our products, thanks to the matching team, 1, several or none of the competitors' prices were found – they are recorded in the comp_price column. Competitors have priority (rank column), and there may be gaps in the ranks (or -1 if no competitor's price is found).
@@ -42,6 +42,7 @@ Example of input data:
 <li>smart_link2 - A/B DESIGN
 <li>Elasticity Feature - calculate Elasticity
 <ul>
-###:metal: Medium:
+---
+### :metal: Medium:
 <ul>Bootstrap - calculat confidence interval of ml model metric woth bootstraping
 <ul>SKu - calculate embedings with tf_idf

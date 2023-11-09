@@ -1,4 +1,4 @@
-###:metal: Easy:
+### :metal: Easy:
 <ul>docstring - auto docstringing
 <li>make_file - docker file
 <li>valid_emails - speed up regular expressions
@@ -22,7 +22,7 @@ In order to engage in thematic modeling, you need to calculate the occurrence of
 <li>SMAPE - There are many metrics for regression tasks. For example, for forecasting tasks, in addition to the well-known RMSE, MAE and MAE, MAPE, WAPE, sMAPE and others are used.
 <li>Count_SKU - SKU stands for stock keeping unit, and translates as a warehouse accounting unit. Almost every product has its own unique number by which you can track some of its statistics.
 </ul> 
----
+----
 ### :metal: Medium:
 <ul>abstract_selector - convert class to @abstractmethod
 <li>ARPPU - calculate metrics 
@@ -41,8 +41,7 @@ Example of input data:
 <li>wau - Write a request with the calculation of WAU for the entire period in a sliding window per week in increments of 1 day, while the current date should be included in the calculation.
 <li>smart_link2 - A/B DESIGN
 <li>Elasticity Feature - calculate Elasticity
-<ul>
----
+----
 ### :metal: Medium:
 <ul>Bootstrap - calculat confidence interval of ml model metric woth bootstraping
 <ul>SKu - calculate embedings with tf_idf
